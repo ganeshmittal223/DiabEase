@@ -1,7 +1,5 @@
 # DiabEase
-
-
-# webapp deploy link : 
+https://diabease.streamlit.app/
 
 This code predicts whether a person is diabetic based on age, pregnancy, glucose level, blood pressure, skin thickness, insulin level, and BMI. The app also provides a visualization of the patient's data and the predicted outcome. This can be helpful for understanding the factors that contributed to the prediction.
 
